@@ -5,7 +5,7 @@
 
 👾 Here some technologies I have been working with: Python, React, TypeScript, JavaScript 
 
-👾 My personal website can be viewed here : under construction
+👾 My personal website can be viewed [here](https://lixu4n.github.io/Celeste/)
 
 👾 When I'm not in class, you'll catch me on the volleyball court, hitting the gym, experimenting with new recipes, or expressing myself through art!
 
