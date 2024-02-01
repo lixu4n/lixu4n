@@ -1,7 +1,7 @@
 <h1 align='center'> About Me </h1>
 <h2 > 👋🏻 Hi I'm Céleste </h2>
 
-💫 I'm Computer Science major at the University of Ottawa, with an additional minor in Digital Cultures. This field merges technology and culture, addressing enduring human questions by creatively using digital tools to gather, organize, and disseminate information across arts and humanities.  This intersection allows us to deepen our understanding of human culture and technology's evolving landscape.
+💫 I'm Computer Science major at the University of Ottawa, with an additional minor in Digital Cultures. This field merges technology and culture, addressing enduring human questions by creatively using digital tools to gather, organize, and disseminate information across arts and humanities. This intersection allows us to deepen our understanding of human culture and technology's evolving landscape.
 
 👾 Here some technologies I have been working with: Python, React, TypeScript, JavaScript 
 
