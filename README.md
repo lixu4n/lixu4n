@@ -7,7 +7,7 @@
 
 👾 When I'm not in class, you'll catch me on the volleyball court, hitting the gym or experimenting with new recipes!
 
-👾 Currently plotting..... 
+👾 Currently plotting..... upcoming projects coming.
 
 
 <h2> 💻 Tech Stack </h2>
@@ -19,10 +19,6 @@ Languages:
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-Developer Tools: 
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Libraries/Frameworks:
 
