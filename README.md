@@ -1,10 +1,12 @@
 
 # Céleste Duguay
 
-I'm 4th year student studying Computer Science at the University of Ottawa and I am also pursuing an additional minor in Digital Humanities. We explore how computation has transformed culture itself and the convergence of the extent of culture being inseperable from technologies and computation.
+I'm 4th year student studying Computer Science at the University of Ottawa and I am also pursuing an additional minor in Digital Humanities which expanded my interests in product/porject developpement. I got to explore how computation has transformed culture itself and the convergence of culture being inseperable from technologies and computation. 
 
 👾 Currently plotting..... upcoming projects coming.
 
+
+👾 In the meantime find my portfolio here: [portfolio](https://lixu4n.github.io/Celeste/)
 
 <h2> 💻 Tech Stack </h2>
 
