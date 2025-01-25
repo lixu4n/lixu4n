@@ -13,8 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,react)](https://skillicons.dev)
 
-#### Some frameworks and technologies I work with
-[![My Skills](https://skillicons.dev/icons?i=firebase,docker,)](https://skillicons.dev)
 
 #### I am currently learning
 [![My Skills](https://skillicons.dev/icons?i=swift,)](https://skillicons.dev)
