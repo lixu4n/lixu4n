@@ -15,7 +15,7 @@
 
 
 #### I am currently learning
-[![My Skills](https://skillicons.dev/icons?i=swift,)](https://skillicons.dev)
+
 
 
 
